@@ -1,0 +1,4 @@
+#Fri Sep 20 12:52:09 WIB 2019
+base.0=/home/dedycode/dedycode/programming/flutter/lezat/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
